@@ -1,0 +1,15 @@
+C:\oficina_fametro\Programa_04\bin\Debug\net6.0\Programa_04.exe
+C:\oficina_fametro\Programa_04\bin\Debug\net6.0\Programa_04.deps.json
+C:\oficina_fametro\Programa_04\bin\Debug\net6.0\Programa_04.runtimeconfig.json
+C:\oficina_fametro\Programa_04\bin\Debug\net6.0\Programa_04.dll
+C:\oficina_fametro\Programa_04\bin\Debug\net6.0\ref\Programa_04.dll
+C:\oficina_fametro\Programa_04\bin\Debug\net6.0\Programa_04.pdb
+C:\oficina_fametro\Programa_04\obj\Debug\net6.0\Programa_04.csproj.AssemblyReference.cache
+C:\oficina_fametro\Programa_04\obj\Debug\net6.0\Programa_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\oficina_fametro\Programa_04\obj\Debug\net6.0\Programa_04.AssemblyInfoInputs.cache
+C:\oficina_fametro\Programa_04\obj\Debug\net6.0\Programa_04.AssemblyInfo.cs
+C:\oficina_fametro\Programa_04\obj\Debug\net6.0\Programa_04.csproj.CoreCompileInputs.cache
+C:\oficina_fametro\Programa_04\obj\Debug\net6.0\Programa_04.dll
+C:\oficina_fametro\Programa_04\obj\Debug\net6.0\ref\Programa_04.dll
+C:\oficina_fametro\Programa_04\obj\Debug\net6.0\Programa_04.pdb
+C:\oficina_fametro\Programa_04\obj\Debug\net6.0\Programa_04.genruntimeconfig.cache
